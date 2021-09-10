@@ -1,4 +1,7 @@
 ---
+# Set to true to display
+active: false
+
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
