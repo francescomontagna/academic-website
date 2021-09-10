@@ -1,7 +1,7 @@
 ---
 title: Francesco Montagna
 role: Data Science and Engineering
-avatar_filename: profile_img.jpg
+avatar_filename: C:\Users\franc\Documents\Projects\hugo\academic-website\content\authors\admin\profile_img.jpg
 bio: My research interests involve theoretical machine learning and its
   interesection with neuroscience.
 interests:
