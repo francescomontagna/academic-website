@@ -1,13 +1,13 @@
 ---
 title: Francesco Montagna
 role: Data Science and Engineering
-avatar_filename: C:\Users\franc\Documents\Projects\hugo\academic-website\content\authors\admin\profile_img.jpg
+avatar_filename: avatar.jpg
 bio: My research interests involve theoretical machine learning and its
   interesection with neuroscience.
 interests:
   - Artificial Intelligence
   - Neuroscience
-  - Statistical Mechanics
+  - Complex systems
 social:
   - icon: envelope
     icon_pack: fas
@@ -36,8 +36,6 @@ superuser: true
 highlight_name: true
 ---
 
-Hi there! I am Francesco Montagna, I am a student in the Data Science and Engineering master degree at Politecnico di Torino.
+Hi there! I am Francesco Montagna, I am a research scientist in applied AI at [LINKS Foundation](https://linksfoundation.com/en/) in Turin.
 
-My interests span from research in theoretical machine learning to its real world applications. Have a look at the [Projects](TODO) and [Research](TODO) sections!
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My interests span from research in theoretical machine learning to its real world applications. I am interested in a research career in Neuroscience, epsecially about its interplay with artificial intelligence. I am also a former member of [MALTO](https://malto.netlify.app/), Machine Learning at PoliTo team.
