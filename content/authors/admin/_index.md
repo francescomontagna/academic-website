@@ -37,4 +37,4 @@ highlight_name: true
 
 Hi there! I am Francesco Montagna, I am a research scientist in applied AI at [LINKS Foundation](https://linksfoundation.com/en/) in Turin.
 
-I am broadly interested to machine laerning theory and application, with particular focus on causality and reinforcement learning. I am also passionate about physics, in particular quantum computing which has been the topic of my master thesis. Currently looking for a PhD position oin neuroscience/machine learning field. I am a member of [MALTO](https://malto.netlify.app/), Machine Learning at PoliTo team.
+I am broadly interested to machine laerning theory and application, with particular focus on causality and reinforcement learning. I am also passionate about physics, in particular quantum computing which has been the topic of my master thesis. Currently looking for a PhD position oin neuroscience/machine learning field. I am a member of [MALTO](https://malto.netlify.app/), Machine Learning at PoliTo team. Have a look at my latest [projects](uploads/Projects-Portfolio.pdf) if you are curious!
