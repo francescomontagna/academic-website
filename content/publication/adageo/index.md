@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Quantum circuit design with reinforcement learning"
-authors: ["Francesco Montagna"]
+title: "Adaptive-Attentive Geolocalization from few queries: a hybrid approach"
+authors: ["Gabriele Moreno Berton", "Valerio Paolicelli", "Carlo Masone", "Francesco Montagna", "Barbara Caputo"]
 date: 2021-10-17T10:39:07+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-10-17T10:39:07+02:00
+publishDate: 2021-12-21T10:39:07+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,12 +36,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "publication/msc-thesis/msc-thesis.pdf"
+url_pdf: ""
 url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: "publication/msc-thesis/slides.pdf"
+url_slides: ""
 url_source:
 url_video:
 

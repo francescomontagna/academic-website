@@ -1,19 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Quantum circuit design with reinforcement learning"
+title: "Incremental Learning on Image Classification"
 authors: ["Francesco Montagna"]
-date: 2021-10-17T10:39:07+02:00
+date: 2020-07-17T10:39:07+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-10-17T10:39:07+02:00
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -36,12 +36,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "publication/msc-thesis/msc-thesis.pdf"
+url_pdf: "publication/incremental-learning/paper.pdf"
 url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: "publication/msc-thesis/slides.pdf"
+url_slides: "publication/incremental-learning/slides.pdf"
 url_source:
 url_video:
 

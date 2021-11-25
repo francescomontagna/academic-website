@@ -1,6 +1,6 @@
 ---
 # Set to true to display
-active: false
+active: true
 
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -26,30 +26,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.coursera.org/account/accomplishments/verify/R2B9RB6MRKYL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2021-07-29"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  title: AWS Cloud Technical Essentials
+  url: "https://www.coursera.org/learn/aws-cloud-technical-essentials"
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/HG5W98WNA2RZ
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2021-08-12"
+  description: 
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: "Build Basic Generative Adversarial Networks (GANs)"
+  url: "https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans?"
+- certificate_url: https://www.coursera.org/account/accomplishments/certificate/QYP6Y2ENR54T
+  date_end: ""
+  date_start: "2021-12-20"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: "Build Better Generative Adversarial Networks (GANs)"
+  url: "https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans"
 
 design:
   columns: '2' 

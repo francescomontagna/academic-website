@@ -2,12 +2,11 @@
 title: Francesco Montagna
 role: Data Science and Engineering
 avatar_filename: avatar.jpg
-bio: My research interests involve theoretical machine learning and its
-  interesection with neuroscience.
+bio: Research interests in machine learning and its intersection with neuroscience, as well as causality.
 interests:
   - Artificial Intelligence
   - Neuroscience
-  - Complex systems
+  - Causality
 social:
   - icon: envelope
     icon_pack: fas
@@ -38,4 +37,4 @@ highlight_name: true
 
 Hi there! I am Francesco Montagna, I am a research scientist in applied AI at [LINKS Foundation](https://linksfoundation.com/en/) in Turin.
 
-My interests span from research in theoretical machine learning to its real world applications. I am interested in a research career in Neuroscience, epsecially about its interplay with artificial intelligence. I am also a former member of [MALTO](https://malto.netlify.app/), Machine Learning at PoliTo team.
+I am broadly interested to machine laerning theory and application, with particular focus on causality and reinforcement learning. I am also passionate about physics, in particular quantum computing which has been the topic of my master thesis. Currently looking for a PhD position oin neuroscience/machine learning field. I am a member of [MALTO](https://malto.netlify.app/), Machine Learning at PoliTo team.
