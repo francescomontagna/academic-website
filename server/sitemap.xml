@@ -47,6 +47,12 @@
     <loc>https://example.com/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/publication-type/7/</loc>
+    <lastmod>2020-07-17T10:39:07+02:00</lastmod>
+  </url><url>
+    <loc>https://example.com/publication/incremental-learning/</loc>
+    <lastmod>2020-07-17T10:39:07+02:00</lastmod>
+  </url><url>
     <loc>https://example.com/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
