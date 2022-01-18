@@ -1,6 +1,6 @@
 ---
 # Set to true to display
-active: true
+active: false
 
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/

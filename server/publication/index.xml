@@ -7,10 +7,18 @@
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Oct 2021 10:39:07 +0200</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://example.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Adaptive-Attentive Geolocalization from few queries: a hybrid approach</title>
+      <link>https://example.com/publication/adageo/</link>
+      <pubDate>Sun, 17 Oct 2021 10:39:07 +0200</pubDate>
+      <guid>https://example.com/publication/adageo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Quantum circuit design with reinforcement learning</title>

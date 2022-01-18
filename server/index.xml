@@ -7,7 +7,7 @@
     <description>Francesco Montagna</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Francesco Montagna</title>
       <link>https://example.com/</link>
     </image>
@@ -30,6 +30,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Adaptive-Attentive Geolocalization from few queries: a hybrid approach</title>
+      <link>https://example.com/publication/adageo/</link>
+      <pubDate>Sun, 17 Oct 2021 10:39:07 +0200</pubDate>
+      <guid>https://example.com/publication/adageo/</guid>
+      <description></description>
     </item>
     
     <item>
