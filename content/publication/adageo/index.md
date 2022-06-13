@@ -2,21 +2,21 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Adaptive-Attentive Geolocalization from few queries: a hybrid approach"
-authors: ["Gabriele Moreno Berton", "Valerio Paolicelli", "Carlo Masone", "Francesco Montagna", "Barbara Caputo"]
-date: 2021-10-17T10:39:07+02:00
+authors: ["Gabriele Moreno Berton", "Valerio Paolicelli", "Francesco Montagna", "Carlo Masone", "Barbara Caputo"]
+date: 2022-06-13T02:27:07+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-12-21T10:39:07+02:00
+publishDate: 2022-06-13T02:27:07+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Adaptive-Attentive Geolocalization from few queries: a hybrid approach"
 publication_short: ""
 
 abstract: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ""
+url_pdf: "https://www.frontiersin.org/articles/10.3389/fcomp.2022.841817/full"
 url_code:
 url_dataset:
 url_poster:

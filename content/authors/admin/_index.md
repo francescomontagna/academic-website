@@ -36,7 +36,7 @@ highlight_name: true
 ---
 
 Hi there! I am Francesco Montagna, ELLIS PhD student at [MaLGa](https://ml.unige.it/) and [Amazon AWS](https://www.amazon.science/latest-news/amazons-fourth-r-d-center-in-germany-is-dedicated-to-open-ai-research), supervised by [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/), [Nicoletta Noceti](https://www.dibris.unige.it/noceti-nicoletta) and [Francesco Locatello](https://scholar.google.com/citations?user=wQanfTIAAAAJ&hl=en).
-I focus my work on Causal Representation Learning, with the main goal is to build systems able to learn meaningful (robust, transferrable, invariant, ...) representations allowing for better generalization in machine learning algorithms. <br/>
+I focus my work on Causal Representation Learning and Causal Discovery. 
 During my B.Sc. I graduated in Physics Engineering at Politecnico di Torino, where I also got my M.Sc. degree in Data Science and Engineering. I've also been a member of [MALTO](https://malto.netlify.app/), the machine learning team of our university.
 
-I am also asystematically and broadly interested in neuroscience, philosophy, blockchain development, math and art. Please feel free to contact me to chat about causality or any of these topics! I am more than glad to exchange opinions and ideas. Also drop an email if you are willing to discuss a project.
+Please feel free to contact me to chat about causality or any topic! I am more than glad to exchange opinions and ideas. Also drop an email if you are willing to discuss a project.
