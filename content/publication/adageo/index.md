@@ -16,7 +16,7 @@ publishDate: 2022-06-13T02:27:07+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Adaptive-Attentive Geolocalization from few queries: a hybrid approach"
+publication: "Frontiers in Computer Science"
 publication_short: ""
 
 abstract: ""

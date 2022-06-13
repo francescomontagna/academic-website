@@ -20,6 +20,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/francesco-montagna
+  - icon: "google-scholar"
+    icon_pack: "ai"
+    link: "https://scholar.google.com/citations?user=StwghVgAAAAJ&hl=en"
 organizations:
   - name: UniGe, Amazon AWS
 education:
@@ -30,7 +33,7 @@ education:
     - course: B.Sc in Engineering Physics
       institution: Politecnico di Torino
       year: 2019
-email: "francesco.montagna997@gmail.com"
+email: "<first_name>.<surname><at>edu.unige.it"
 superuser: true
 highlight_name: true
 ---
