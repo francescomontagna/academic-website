@@ -6,7 +6,6 @@ bio: Research interests in causal inference applied to machine learning, as well
 interests:
   - Causal Machine Learning
   - Artificial Intelligence
-  - Neuroscience
 social:
   - icon: envelope
     icon_pack: fas
