@@ -23,15 +23,15 @@ social:
     icon_pack: "ai"
     link: "https://scholar.google.com/citations?user=StwghVgAAAAJ&hl=en"
 organizations:
-  - name: UniGe, Amazon AWS
+  - name: University of Genoa
 education:
   courses:
-    - course: M.Sc in Data Science and Engineering
-      institution: Politecnico di Torino
-      year: 2021
     - course: B.Sc in Engineering Physics
       institution: Politecnico di Torino
       year: 2019
+    - course: M.Sc in Data Science and Engineering
+      institution: Politecnico di Torino
+      year: 2021
     - course: PhD candidate
       institution: University of Genoa
       year: 2022-ongoing
@@ -40,6 +40,6 @@ superuser: true
 highlight_name: true
 ---
 
-Hi there! I am Francesco Montagna, PhD student at [MaLGa](https://ml.unige.it/) supervised by [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/), [Nicoletta Noceti](https://rubrica.unige.it/personale/UkNGWV9h) and [Francesco Locatello](https://www.francescolocatello.com/). Previously, I was an intern at Amazon AWS in Tubingen, Germany.
+I am Francesco Montagna, PhD student at [MaLGa](https://ml.unige.it/) supervised by [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/), [Nicoletta Noceti](https://rubrica.unige.it/personale/UkNGWV9h) and [Francesco Locatello](https://www.francescolocatello.com/). Previously, I was an intern at Amazon AWS in Tubingen, Germany.
 I focus my work on Causal Representation Learning and Causal Discovery. 
 During my B.Sc. I graduated in Physics Engineering at Politecnico di Torino, where I also obtained my M.Sc. degree in Data Science and Engineering.
