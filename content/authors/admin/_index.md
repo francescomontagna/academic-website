@@ -4,8 +4,8 @@ role: Data Science and Engineering
 avatar_filename: avatar.jpg
 bio: Research interests in causal inference and machine learning.
 interests:
-  - Causal Machine Learning
-  - Artificial Intelligence
+  - Causal inference
+  - Learning theory
 social:
   - icon: envelope
     icon_pack: fas
@@ -41,5 +41,5 @@ highlight_name: true
 ---
 
 I am Francesco Montagna, PhD student at [MaLGa](https://ml.unige.it/) supervised by [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/), [Nicoletta Noceti](https://rubrica.unige.it/personale/UkNGWV9h) and [Francesco Locatello](https://www.francescolocatello.com/). Previously, I was an intern at Amazon AWS in Tubingen, Germany.
-I focus my work on Causal Representation Learning and Causal Discovery. 
+My research is focused on causal discovery and causal representation learning.
 During my B.Sc. I graduated in Physics Engineering at Politecnico di Torino, where I also obtained my M.Sc. degree in Data Science and Engineering.
