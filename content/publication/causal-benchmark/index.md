@@ -37,8 +37,8 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://arxiv.org/abs/2310.13387"
-url_code: "causally.readthedocs.io/en/latest/"
-url_dataset:
+url_code: "https://www.pywhy.org/dodiscover/dev/auto_examples/plot_score_alg.html#sphx-glr-auto-examples-plot-score-alg-py"
+url_dataset: "https://causally.readthedocs.io/en/latest/"
 url_poster:
 url_project:
 url_slides:
