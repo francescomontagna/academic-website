@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://openreview.net/forum?id=rVO0Bx90deu"
-url_code: "https://github.com/francescomontagna/NoGAM"
+url_code: "https://www.pywhy.org/dodiscover/dev/generated/dodiscover.toporder.NoGAM.html#dodiscover.toporder.NoGAM"
 url_dataset:
 url_poster:
 url_project:

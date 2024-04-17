@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://www.amazon.science/publications/scalable-causal-discovery-with-score-matching"
-url_code: "https://github.com/francescomontagna/DAS"
+url_code: "https://pywhy.org/dodiscover/dev/generated/dodiscover.toporder.DAS.html#dodiscover.toporder.DAS"
 url_dataset:
 url_poster:
 url_project:
