@@ -1,19 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Shortcuts for causal discovery of nonlinear models by score matching"
-authors: ["Francesco Montagna", "Nicoletta Noceti", "Lorenzo Rosasco",  "Francesco Locatello"]
-date: 2023-10-22T02:27:07+02:00
+title: "Demystifying amortized causal discovery with transformers"
+authors: ["Francesco Montagna", "Max Cairney-Leeming", "Dhanya Sridhar", "Francesco Locatello"]
+date: 2024-05-27T02:27:07+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-10-22T02:27:07+02:00
+publishDate: 2024-05-27T02:27:07+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Pre-print"

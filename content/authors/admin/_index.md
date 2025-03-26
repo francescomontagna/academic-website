@@ -40,6 +40,5 @@ superuser: true
 highlight_name: true
 ---
 
-I am Francesco Montagna, PhD student at [MaLGa](https://ml.unige.it/) supervised by [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/), [Nicoletta Noceti](https://rubrica.unige.it/personale/UkNGWV9h) and [Francesco Locatello](https://www.francescolocatello.com/). Previously, I was an intern at Amazon AWS in Tubingen, Germany.
-My research is focused on causal discovery and causal representation learning.
-During my B.Sc. I graduated in Physics Engineering at Politecnico di Torino, where I also obtained my M.Sc. degree in Data Science and Engineering.
+I am Francesco Montagna, I am en ELLIS PhD student at [MaLGa](https://ml.unige.it/) supervised by [Lorenzo Rosasco](http://web.mit.edu/lrosasco/www/) and [Francesco Locatello](https://www.francescolocatello.com/). Previously, I was an intern at Amazon AWS in Tubingen, Germany. Currently, I am visting researcher at the [CLeaR](https://www.cmu.edu/dietrich/causality/) group at Carnegie Mellon University, hosted by professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/)
+My research is focused on causal discovery and causal representation learning in the i.i.d. setting.
